@@ -28,7 +28,7 @@ console.log(book4);
 let book5 = {title:'HTML&CSS', pageCount:461, genre:'Computer literature', author: ['John Duckett', 31]};
 console.log(book5['genre']);
 let book6 = {title:'Just listen', pageCount:244, genre:'Psychology', author: ['Mark Goulston', 42]};
-console.log(book6['author']);
+console.log(book6['author'])
 
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". ' +
 // 'Поля: name, username,password. Вивести в консоль пароль кожного користувача
